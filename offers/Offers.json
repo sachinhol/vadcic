@@ -3,9 +3,9 @@
   "title": "Free Dental Check-up for Gravity Fitness Gym Members",
   "description": "Exclusive offer for Gravity Fitness members – get a free dental check-up including consultation and X-rays.",
   "validUntil": "June 30, 2025",
-  "imageUrl": "https://images.unsplash.com/photo-1603394521538-3e09c04dd7b6?q=80&w=1470&auto=format&fit=crop",
+   "imageUrl": "https://raw.githubusercontent.com/sachinhol/vadcic/main/images/gymoffer.jpg",
   "discount": "100% OFF"
-},
+ },
   {
     "title": "25% Off Teeth Whitening",
     "description": "Get professional teeth whitening treatment at a special discounted price.",
