@@ -17,7 +17,7 @@
     "title": "Family Package Discount",
     "description": "Special pricing for families of 3 or more members on all treatments.",
     "validUntil": "June 30, 2025",
-    "imageUrl": "https://raw.githubusercontent.com/sachinhol/vadcic/blob/main/images/family.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sachinhol/vadcic/main/images/family.jpg",
     "discount": "10% OFF"
   }
 ]
